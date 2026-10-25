@@ -1,2 +1,6 @@
-streamlit
-requests
+streamlit==1.45.1
+google-genai
+imageio-ffmpeg
+fonttools
+edge-tts
+numpy
